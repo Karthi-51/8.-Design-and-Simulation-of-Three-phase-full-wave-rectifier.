@@ -43,7 +43,12 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-19 at 5 14 54 PM](https://github.com/user-attachments/assets/a5474e30-2582-4194-80de-8cdfcbf78c02)
 
 ## Output
+![WhatsApp Image 2026-03-19 at 5 14 54 PM (1)](https://github.com/user-attachments/assets/49684def-0dd8-4e60-a609-0a26815abd9b)
+
+
 
 ## Result
+Thus,this experiment will be verified successfully.
